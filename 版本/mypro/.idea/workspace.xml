@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="109e3de2-defc-4f6e-9cc6-30fc6985a4c5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mypro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mypro/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2006">
+              <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="273" selection-start-line="273" selection-end-line="273" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>determine_version</find>
+      <find>dispatch</find>
+      <find>VERSION_PARAM</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mypro/urls.py" />
+        <option value="$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/views.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/mypro/settings.py" />
+        <option value="$PROJECT_DIR$/app/views.py" />
+        <option value="$PROJECT_DIR$/app/urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mypro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mypro" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mypro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mypro.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="109e3de2-defc-4f6e-9cc6-30fc6985a4c5" name="Default Changelist" comment="" />
+      <created>1550818228979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550818228979</updated>
+      <workItem from="1550818230929" duration="249000" />
+      <workItem from="1550818805185" duration="7123000" />
+      <workItem from="1550910779604" duration="12000" />
+      <workItem from="1550882330233" duration="5626000" />
+      <workItem from="1550900109935" duration="4461000" />
+      <workItem from="1550968839662" duration="6770000" />
+      <workItem from="1550986636181" duration="1752000" />
+      <workItem from="1551054968543" duration="914000" />
+      <workItem from="1551055897745" duration="3442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30349000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="24" width="960" height="1021" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.07821229" visible="true" weight="0.19627193" />
+      <window_info id="Structure" order="1" sideWeight="0.92178774" side_tool="true" weight="0.12537092" />
+      <window_info id="Favorites" order="2" sideWeight="0.92122185" side_tool="true" weight="0.189441" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40086675" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.503792" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="manage.py@mypro" order="10" weight="0.42165244" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3881579" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/tornado/httputil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="341" column="25" selection-start-line="341" selection-start-column="25" selection-end-line="341" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="202" column="8" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971764/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="719" column="6" selection-start-line="719" selection-start-column="6" selection-end-line="719" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="77" column="31" lean-forward="true" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/versioning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="78" />
+          <folding>
+            <element signature="e#3367#5132#0" />
+            <element signature="e#5181#5986#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#222#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/19e4f58c-fac3-4f63-84f2-8d81494681e9/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypro/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#639#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1148" column="8" selection-start-line="1148" selection-start-column="8" selection-end-line="1148" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="845" column="6" selection-start-line="845" selection-start-column="6" selection-end-line="845" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1866" column="8" selection-start-line="1866" selection-start-column="8" selection-end-line="1866" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://19e4f58c-fac3-4f63-84f2-8d81494681e9/schema/main/table/app_usergroup" />
+    <entry file="das://19e4f58c-fac3-4f63-84f2-8d81494681e9/schema/main/table/app_userinfo_roles" />
+    <entry file="das://19e4f58c-fac3-4f63-84f2-8d81494681e9/schema/main/table/app_userinfo" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="105" column="6" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="155" column="6" selection-start-line="155" selection-start-column="6" selection-end-line="155" selection-end-column="6" />
+          <folding>
+            <element signature="e#16#129#1" />
+            <element signature="e#936#1157#0" />
+            <element signature="e#936#997#1" />
+            <element signature="e#1193#1328#0" />
+            <element signature="e#1193#1267#1" />
+            <element signature="e#1384#2982#0" />
+            <element signature="e#1384#2042#1" />
+            <element signature="e#2161#2221#0" />
+            <element signature="e#2337#2399#0" />
+            <element signature="e#2493#2532#0" />
+            <element signature="e#2570#2625#0" />
+            <element signature="e#2712#2793#0" />
+            <element signature="e#3043#3559#0" />
+            <element signature="e#3043#3152#1" />
+            <element signature="e#3218#3537#0" />
+            <element signature="e#3303#3500#0" />
+            <element signature="e#3605#3887#0" />
+            <element signature="e#3605#3752#1" />
+            <element signature="e#3780#3826#0" />
+            <element signature="e#4269#4338#0" />
+            <element signature="e#4412#4486#0" />
+            <element signature="e#4539#4623#0" />
+            <element signature="e#4666#4688#0" />
+            <element signature="e#4737#4839#0" />
+            <element signature="e#4890#5106#1" />
+            <element signature="e#5111#5135#0" />
+            <element signature="e#5458#5520#0" />
+            <element signature="e#5700#5774#0" />
+            <element signature="e#6077#7078#0" />
+            <element signature="e#6077#6230#1" />
+            <element signature="e#6681#6834#0" />
+            <element signature="e#6914#7015#0" />
+            <element signature="e#7132#7349#0" />
+            <element signature="e#7160#7347#0" />
+            <element signature="e#7397#7744#0" />
+            <element signature="e#7440#7713#0" />
+            <element signature="e#7461#7649#0" />
+            <element signature="e#7783#8010#0" />
+            <element signature="e#8053#8383#0" />
+            <element signature="e#8425#9124#0" />
+            <element signature="e#8528#8730#0" />
+            <element signature="e#8976#9124#0" />
+            <element signature="e#9157#9284#0" />
+            <element signature="e#9333#10346#0" />
+            <element signature="e#9534#9863#0" />
+            <element signature="e#9927#10324#0" />
+            <element signature="e#10398#10560#1" />
+            <element signature="e#10980#11455#0" />
+            <element signature="e#11509#11711#0" />
+            <element signature="e#11537#11709#0" />
+            <element signature="e#11755#12094#0" />
+            <element signature="e#11794#12059#0" />
+            <element signature="e#11815#11995#0" />
+            <element signature="e#12139#12314#0" />
+            <element signature="e#12156#12254#0" />
+            <element signature="e#12353#12659#0" />
+            <element signature="e#12702#13097#0" />
+            <element signature="e#13139#14611#0" />
+            <element signature="e#13220#13843#0" />
+            <element signature="e#13290#13335#0" />
+            <element signature="e#13870#13903#0" />
+            <element signature="e#14019#14298#0" />
+            <element signature="e#14151#14298#0" />
+            <element signature="e#14463#14611#0" />
+            <element signature="e#14644#14771#0" />
+            <element signature="e#14820#15676#0" />
+            <element signature="e#15019#15676#0" />
+            <element signature="e#15721#15943#0" />
+            <element signature="e#15721#15817#1" />
+            <element signature="e#15990#30281#0" />
+            <element signature="e#15990#16204#1" />
+            <element signature="e#16489#16551#0" />
+            <element signature="e#16731#16805#0" />
+            <element signature="e#16902#16966#0" />
+            <element signature="e#17296#20464#0" />
+            <element signature="e#18095#18526#0" />
+            <element signature="e#18536#18609#0" />
+            <element signature="e#18980#19103#0" />
+            <element signature="e#19130#19198#0" />
+            <element signature="e#19232#19822#0" />
+            <element signature="e#19232#19303#0" />
+            <element signature="e#19849#20217#0" />
+            <element signature="e#20227#20288#0" />
+            <element signature="e#20512#20859#0" />
+            <element signature="e#20555#20828#0" />
+            <element signature="e#20576#20764#0" />
+            <element signature="e#20898#22931#0" />
+            <element signature="e#21033#21250#0" />
+            <element signature="e#21033#21092#0" />
+            <element signature="e#21379#21946#0" />
+            <element signature="e#21496#21673#0" />
+            <element signature="e#21496#21549#0" />
+            <element signature="e#21687#21748#0" />
+            <element signature="e#21974#22815#0" />
+            <element signature="e#22074#22303#0" />
+            <element signature="e#22074#22101#0" />
+            <element signature="e#22358#22564#0" />
+            <element signature="e#22358#22417#0" />
+            <element signature="e#22599#22815#0" />
+            <element signature="e#22599#22656#0" />
+            <element signature="e#22974#24992#0" />
+            <element signature="e#23117#23333#0" />
+            <element signature="e#23117#23176#0" />
+            <element signature="e#23456#24023#0" />
+            <element signature="e#23573#23750#0" />
+            <element signature="e#23573#23626#0" />
+            <element signature="e#23764#23825#0" />
+            <element signature="e#24051#24877#0" />
+            <element signature="e#24147#24376#0" />
+            <element signature="e#24147#24174#0" />
+            <element signature="e#24431#24643#0" />
+            <element signature="e#24431#24488#0" />
+            <element signature="e#24678#24877#0" />
+            <element signature="e#24678#24737#0" />
+            <element signature="e#25055#26891#0" />
+            <element signature="e#25055#25147#1" />
+            <element signature="e#25175#25315#0" />
+            <element signature="e#25358#25910#0" />
+            <element signature="e#25358#25421#0" />
+            <element signature="e#25716#25819#0" />
+            <element signature="e#25937#26554#0" />
+            <element signature="e#25937#25995#0" />
+            <element signature="e#26135#26244#0" />
+            <element signature="e#26318#26540#0" />
+            <element signature="e#26939#27804#0" />
+            <element signature="e#26939#27021#1" />
+            <element signature="e#27235#27634#0" />
+            <element signature="e#27851#28388#0" />
+            <element signature="e#27851#27934#1" />
+            <element signature="e#28461#28674#0" />
+            <element signature="e#28728#28895#0" />
+            <element signature="e#28756#28893#0" />
+            <element signature="e#28937#29054#0" />
+            <element signature="e#28944#29054#0" />
+            <element signature="e#29087#29214#0" />
+            <element signature="e#29263#30281#0" />
+            <element signature="e#29464#29798#0" />
+            <element signature="e#29862#30259#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/viewsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="218" column="6" selection-start-line="218" selection-start-column="6" selection-end-line="218" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://19e4f58c-fac3-4f63-84f2-8d81494681e9/schema/main/table/app_role" />
+    <entry file="file://$PROJECT_DIR$/mypro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
